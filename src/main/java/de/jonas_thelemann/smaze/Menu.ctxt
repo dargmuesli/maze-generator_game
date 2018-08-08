@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\r\n\ An\ object\ of\ the\ class\ represents\ the\ main\ menu.\ From\ this\ screen\ you\ can\ either\ go\ to\ the\ options\ dialog\ or\ start\ a\ new\ game.\r\n\ \r\n\ @author\ Jonas\ Thelemann\r\n\ @version\ 17.12.2014\r\n
+comment1.params=game
+comment1.target=Menu(Game)
+numComments=2

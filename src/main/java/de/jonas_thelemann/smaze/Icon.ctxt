@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Icon
+comment0.text=\r\n\ An\ object\ of\ this\ class\ is\ an\ icon\ to\ be\ placed\ on\ a\ screen.\ \r\n\ It\ can\ be\ created\ from\ an\ image\ file\ or\ a\ Greenfoot\ image.\r\n\ \r\n\ This\ class\ also\ serves\ as\ a\ provider\ of\ square\ images\ of\ different\ colors.\r\n\ \r\n\ @author\ Jonas\ Thelemann,\ Nur\ \u00C7obankara\r\n\ @version\ 17.12.2014\r\n
+comment1.params=iconFile
+comment1.target=Icon(java.lang.String)
+comment2.params=img
+comment2.target=Icon(greenfoot.GreenfootImage)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ do\ whatever\ the\ Text\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment4.params=color
+comment4.target=greenfoot.GreenfootImage\ createSquare(java.awt.Color)
+comment5.params=color
+comment5.target=greenfoot.GreenfootImage\ getSquare(java.lang.String)
+comment6.params=color
+comment6.target=Icon\ getSquareIcon(java.lang.String)
+numComments=7

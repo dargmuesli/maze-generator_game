@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=CounterButton
+comment0.text=\r\n\ An\ object\ of\ this\ class\ is\ a\ special\ buttons\ which\ is\ connected\ to\ a\ counter\ object.\r\n\ A\ counter\ button\ may\ be\ either\ a\ "plus"\ button\ (increasing\ the\ counter)\ or\ a\ "minus"\ button\ (tdecreasing\ the\ counter).\r\n\ \r\n\ @author\ Jonas\ Thelemann,\ Nur\ \u00C7obankara\r\n\ @version\ 17.12.2014\r\n
+comment1.params=type\ counter
+comment1.target=CounterButton(int,\ Counter)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

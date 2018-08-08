@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=MazeElement
+comment0.text=\r\n\ Objects\ of\ this\ class\ are\ maze\ elements\:\ paths,\ walls,\ and\ "requested"\ paths\ (which\ is\ a\ transient\ state\ during\ maze\ generation)\r\n\ \r\n\ @author\ Jonas\ Thelemann\r\n\ @version\ 17.12.2014\r\n
+comment1.params=type
+comment1.target=MazeElement(int)
+comment10.params=
+comment10.target=void\ makeInvisible()
+comment11.params=
+comment11.target=void\ makeVisible()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=int\ getType()
+comment4.params=
+comment4.target=boolean\ isPath()
+comment5.params=
+comment5.target=void\ setPath()
+comment6.params=
+comment6.target=boolean\ isWall()
+comment7.params=
+comment7.target=void\ setWall()
+comment8.params=
+comment8.target=boolean\ isRequested()
+comment9.params=
+comment9.target=void\ setRequested()
+numComments=12

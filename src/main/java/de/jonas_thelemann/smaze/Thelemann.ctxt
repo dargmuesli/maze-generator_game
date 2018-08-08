@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Thelemann
+comment0.text=\r\n\ An\ object\ of\ this\ class\ is\ a\ specific\ player,\ the\ Ninja,\ who\ can\ teleport.\r\n\ \r\n\ @author\ Jonas\ Thelemann,\ Nur\ \u00C7obankara\r\n\ @version\ 17.12.2014\r\n
+comment1.params=
+comment1.target=Thelemann()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ useSpecialPower()
+numComments=4

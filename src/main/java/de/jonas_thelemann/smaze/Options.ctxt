@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Options
+comment0.text=\r\n\ An\ object\ of\ this\ class\ represents\ the\ options\ dialog.\ Three\ options\ are\ included,\ more\ are\ possible,\ but\ currently\ not\ wanted.\r\n\ Once\ an\ object\ of\ this\ class\ is\ created\ it\ is\ reused\ throughout\ the\ game\ whenever\ the\ options\ dialog\ is\ chosen.\r\n\ \r\n\ @author\ Nur\ \u00C7obankara,\ Jonas\ Thelemann\r\n\ @version\ 17.12.2014\r\n
+comment1.params=game
+comment1.target=Options(Game)
+comment2.params=
+comment2.target=Game\ getGame()
+numComments=3

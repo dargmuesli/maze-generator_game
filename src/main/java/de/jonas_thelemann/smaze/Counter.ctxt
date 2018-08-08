@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Counter
+comment0.text=\r\n\ Objects\ of\ this\ class\ are\ counters\ which\ can\ be\ placed\ on\ the\ screens.\r\n\ The\ range\ of\ the\ counters\ is\ 0..9.\r\n\ \r\n\ @author\ Jonas\ Thelemann,\ Nur\ \u00C7obankara\r\n\ @version\ 17.12.2014\r\n
+comment1.params=start
+comment1.target=Counter(int)
+comment2.params=from\ to\ start
+comment2.target=Counter(int,\ int,\ int)
+comment3.params=
+comment3.target=int\ get()
+comment4.params=incr
+comment4.target=void\ incr(int)
+comment5.params=
+comment5.target=greenfoot.GreenfootImage\ getCounterImage()
+numComments=6

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\r\n\ Objects\ of\ this\ class\ are\ buttons\ to\ be\ placed\ on\ the\ screens.\ If\ not\ a\ counter\ button\ then\ a\ specific\ action\ is\ set\ in\ the\ game\ object\ \r\n\ and\ the\ game's\ act\ method\ is\ called\ to\ handle\ the\ action.\r\n\ \r\n\ @author\ Jonas\ Thelemann,\ Nur\ \u00C7obankara\r\n\ @version\ 17.12.2014\r\n
+comment1.params=type\ game
+comment1.target=Button(int,\ Game)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=text
+comment3.target=greenfoot.GreenfootImage\ createImage(java.lang.String)
+comment3.text=\r\n\ Buttons\ with\ text\ need\ to\ be\ larger\ than\ the\ text\ image\ itself.\r\n\ \r\n\ @param\ text\r\n\ @return\ image\ of\ size\ 100x26\ with\ centered\ text\r\n
+numComments=4
