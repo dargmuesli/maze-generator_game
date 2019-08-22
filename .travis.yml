@@ -1,0 +1,16 @@
+dist: trusty
+language: java
+jdk:
+- oraclejdk8
+cache:
+  directories:
+  - "$HOME/.m2"
+deploy:
+  provider: releases
+  api_key:
+    secure: OgE/oV8F7jiCFFaOZTWD6OMUtrE5w1sqoTMwnBxUl8oS/RRMubbuEGgEoO/5dtma8ciRznOQT33Uc+bWl17Uw0XhLuiE/+UMQiNoLKikOd4OROoASGR4Ds13LJ6+mDF0R/bD4fyK3SXLj2gpaRW8wZUgSFK7SmYshtEeYIdc4hn0YdwotZgf8i7DELbgwKP+KQjkaljxhd2N/utYseEBppnTPsqKpdP6qUxHm4UUTeXpCxnUkXq+MRmqGPZYwb/9qrWWqG4fEclfY74llq5dyDx4OUB+P4WE4o4jthILCU5s978r3SAvSa9afy++gIhczHI8rDuYfGTqjVeVH7eytxG4RusTsJGl3KEdujeRYBWnZGAYyi2ktmhITBp8uZrRkb9rAzvTeNWt3xDfx1uWJPZX+GDbOrjFDYhDdsm+Otz1Koo9hfBybdLzB6E6J8Oc5vpQ8WSbIbGwqOP6iFwVSl62Vq2Bod/httq6odLz2ldHnoPuJk71wyOAooBcXUReFnS7vHx4LNuZ2PHFI5funVAgu55iV3pjVIWatIZoqK1YNngIjqc0NAmw51y42d6ebFdINxlJgQuIV2h3jbjRzVftwDSPJcqaUYw9ZQT9Yf/L906WoWN2Ikn7oYxShvV1UiNaaRUq9QvhJvtcEA4HUHpWUhkJX4A766HQ0FR999Q=
+  file: "./target/smaze-${TRAVIS_TAG}-jar-with-dependencies.jar"
+  skip_cleanup: true
+  on:
+    tags: true
+    repo: dargmuesli/smaze
