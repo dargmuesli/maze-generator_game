@@ -50,12 +50,12 @@
         <dependency>
             <groupId>org.greenfoot</groupId>
             <artifactId>greenfoot</artifactId>
-            <version>3.6.0</version>
+            <version>3.5.4</version>
         </dependency>
         <dependency>
             <groupId>org.bluej</groupId>
             <artifactId>bluej-core</artifactId>
-            <version>greenfoot-3.6.0</version>
+            <version>greenfoot-3.5.4</version>
         </dependency>
     </dependencies>
 
