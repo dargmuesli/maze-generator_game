@@ -1,23 +1,12 @@
-# smaze
+# sMaze
+In this game two players struggle to collect the most sheep in a randomly generated maze.
+One player can send out dogs that run around, collecting sheep.
+The other can teleport, even through walls.
 
-## Project Title
-"Freakin' Maze'ing!" Or "MazeGenerator - The Game"
-
-## Purpose
-Have a 'never' the same game!
-
-## Date
-17.12.2014
-
-## How To Start
-This project requires Greenfoot 1.4.0 or later.
-Press 'compile' and 'run'.
+## Instructions
+Move the actors through the maze with either \[wasd\] or the arrow keys.
+Collect all the sheep.
+Use your special power wisely with either \[spacebar\] or \[enter\] to gain an advantage!
 
 ## Authors
 Jonas Thelemann, Nur Çobankara
-
-## Player Instructions
-Play with 2 players.
-Move the actors through the maze with 'WASD' and the arrow keys.
-Collect all the sheeps.
-Use your special power wisely to gain an advantage!
