@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=Finish
-comment0.text=\r\n\ An\ object\ of\ this\ class\ shows\ the\ final\ screen\ with\ statistics\ about\ the\ just\ finished\ game.\r\n\ \r\n\ @author\ Jonas\ Thelemann\r\n\ @version\ 17.12.2014\r\n
-comment1.params=game
-comment1.target=Finish(Game)
-numComments=2
