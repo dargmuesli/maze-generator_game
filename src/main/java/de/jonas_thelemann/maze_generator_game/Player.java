@@ -1,5 +1,5 @@
 // Import: World, Actor, GreenfootImage, Greenfoot and MouseInfo.
-package de.jonas_thelemann.smaze;
+package de.jonas_thelemann.maze_generator_game;
 
 import greenfoot.Actor;
 import greenfoot.Greenfoot;

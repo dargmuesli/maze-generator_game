@@ -5,12 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>de.jonas_thelemann</groupId>
-    <artifactId>smaze</artifactId>
+    <artifactId>maze-generator-game</artifactId>
     <version>1.0.0</version>
 
-    <name>sMaze</name>
+    <name>Maze Generator - The Game</name>
     <description></description>
-    <url>https://github.com/dargmuesli/smaze</url>
+    <url>https://github.com/dargmuesli/maze-generator_game</url>
 
     <developers>
         <developer>
@@ -34,9 +34,9 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/dargmuesli/smaze</url>
-        <connection>scm:git:git://github.com/dargmuesli/smaze.git</connection>
-        <developerConnection>scm:git:git@github.com:dargmuesli/smaze.git</developerConnection>
+        <url>https://github.com/dargmuesli/maze-generator_game</url>
+        <connection>scm:git:git://github.com/dargmuesli/maze-generator_game.git</connection>
+        <developerConnection>scm:git:git@github.com:dargmuesli/maze-generator_game.git</developerConnection>
     </scm>
 
     <repositories>
@@ -80,7 +80,7 @@
                     </excludes>
                     <archive>
                         <manifest>
-                            <mainClass>de.jonas_thelemann.smaze.Main</mainClass>
+                            <mainClass>de.jonas_thelemann.maze_generator_game.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
@@ -90,7 +90,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>de.jonas_thelemann.smaze.Main</mainClass>
+                            <mainClass>de.jonas_thelemann.maze_generator_game.Main</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>

@@ -1,6 +1,6 @@
-[![build status](https://travis-ci.com/dargmuesli/smaze.svg?branch=master)](https://travis-ci.com/dargmuesli/smaze "build status")
+[![build status](https://travis-ci.com/dargmuesli/maze-generator_game.svg?branch=master)](https://travis-ci.com/dargmuesli/maze-generator_game "build status")
 
-# sMaze
+# maze-generator_game
 In this game two players struggle to collect the most sheep in a randomly generated maze.
 One player can send out dogs that run around, collecting sheep.
 The other can teleport, even through walls.
