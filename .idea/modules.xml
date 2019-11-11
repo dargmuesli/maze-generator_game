@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/smaze.iml" filepath="$PROJECT_DIR$/smaze.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maze-generator_game.iml" filepath="$PROJECT_DIR$/maze-generator_game.iml" />
     </modules>
   </component>
 </project>

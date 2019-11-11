@@ -1,6 +1,6 @@
 // Import: World, Actor, GreenfootImage, Greenfoot and MouseInfo.
 //import greenfoot.*;
-package de.jonas_thelemann.smaze;
+package de.jonas_thelemann.maze_generator_game;
 
 /**
  * This class is a collectible (in game).

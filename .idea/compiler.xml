@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="smaze" />
+        <module name="maze-generator_game" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="smaze" target="1.8" />
+      <module name="maze-generator_game" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
